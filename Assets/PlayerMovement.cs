@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Kapitan Zjeb 3D");
+        Debug.Log("Kapitan Koks 3D");
         Debug.Log("By Whiskey Whale Studios");
     }
 
